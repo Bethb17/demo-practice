@@ -1,2 +1,2 @@
 # Demo
-sample readme for practice
+Sample readme for practice
